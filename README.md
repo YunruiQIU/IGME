@@ -1,6 +1,6 @@
 IGME
 ==========
-# IGME
+
 This code is used to generate Integrative-Generalized-Master-Equation (IGME) models to analyze state-based dynamics.
 
 IGME is an algorithm designed for analysing data of Molecular Dynamics (MD) Simulation based on Generalized
