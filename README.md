@@ -5,6 +5,7 @@ This code is used to generate Integrative-Generalized-Master-Equation (IGME) mod
 
 IGME is an algorithm designed for analysing data of Molecular Dynamics (MD) Simulation based on Generalized
 Master Equation (GME) Theory. Some references are recommended: J. Chem. Phys.,153, 014105, (2020)
+
 Using IGME algorithm, the dynamics projected to a subspace from phase space can be predicted accurately. IGME algorithm takes advantages of the integration method which can effectively remove the fluctuations from the MD data.
 
 Workflow
@@ -28,6 +29,6 @@ An example workflow might be as follows:
 
 5. Use Transition Probability Matrix (TPM) computed from MSM at different lag time to be
 the input of the IGME. IGME can accurately predict the TPM at any time ,thus gives accurate
-estimation for long-time dynamics. The output of IGME is two matrixes, one is called
-A matrix and T matrix. T matrix contains information for a infinite long time behavior 
-and can be used to calculate some properties such as MFPT and stationary population.
+estimation for long-time dynamics. The output of IGME is two matrixes, A matrix and T matrix. 
+T matrix contains information for a infinite long time behavior and can be used to calculate 
+some properties such as MFPT and stationary population.
