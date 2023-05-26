@@ -6,7 +6,7 @@ an extended method from qMSM. Using IGME algorithm, the dynamics projected to a 
 can be predicted accurately. For quasi-MSM, due to the numerical derivative issues, its results always
 fluctuated significantly. IGME algorithm takes advantages of the integration method which can effectively
 remove the fluctuations from the MD data.
-Author: Yunrui QIU     email: yunruiqiu@gmail.com
+Author: Yunrui QIU, Mingyi Xue     email: yunruiqiu@gmail.com, mxue33@wisc.edu
 2021-Dec-17th
 """
 
