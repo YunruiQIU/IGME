@@ -8,6 +8,10 @@ Master Equation (GME) Theory. Some references are recommended: J. Chem. Phys.,15
 
 Using IGME algorithm, the dynamics projected to a subspace from phase space can be predicted accurately. IGME algorithm takes advantages of the integration method which can effectively remove the fluctuations from the MD data.
 
+## Acknowledgement
+
+I express my sincere appreciation for Mingyi Xue's suggestion for the code of graident descent algorithm.
+
 Workflow
 --------
 
